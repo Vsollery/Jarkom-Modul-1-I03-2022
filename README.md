@@ -26,7 +26,7 @@ It will show server : **nginx/1.10.3**
 
 Use Filter 'ip.host == 103.94.185.5 && tcp contains detailTopik' it will 1 packet. then click 'file' 'Export Object' choose 'HTTP'
 then save the file and open it. it will open
-![Number2](/screenshoots/Screenshot (136).png)
+![Number2](/screenshoots/Screenshot no.2.png)
 
 ## Question 3
 
