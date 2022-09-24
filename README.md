@@ -70,6 +70,9 @@ Using command filter 'tcp contains lipi.go.id' to show packets that Host is lipi
 
 >  Filter so that wireshark only picks up packets coming from your ip!
 
+ IPv4 address : 192.168.1.24, Using ip.src_host ==  192.168.1.24 to  picks up packets coming from your ip
+ ![Number6](/screenshots/no%207.png)
+
 ## Question 8
 
 > Browse the flow of packets in the given .pcap file, look for useful information in the form of a conversation between two students regarding cheating in practicum activities. The conversation is reported to use a network protocol with a high level of reliability in its data exchange so you need to apply a filter with that protocol.
