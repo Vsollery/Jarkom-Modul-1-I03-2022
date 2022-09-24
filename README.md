@@ -24,7 +24,7 @@ It will show server : **nginx/1.10.3**
 
 > Ishaq was confused looking for TA topics for this semester, then he came to the monta website and found the topic details on the website “monta.if.its.ac.id”, what TA title did Ishaq open?
 
-Use Filter 'ip.host == 103.94.185.5 && tcp contains detailTopik' it will 1 packet. then click 'file' 'Export Object' choose 'HTTP'
+Use Filter 'ip.host == 103.94.185.5 && tcp contains detailTopik' it will show 1 display server. then click 'file' 'Export Object' choose 'HTTP'
 then save the file and open it. it will open
 ![Number2](/screenshots/Screenshot no.2.png)
 
