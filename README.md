@@ -88,4 +88,5 @@ Results of the encrypted file.
 
 > Find the secret password (flag) of the above-mentioned underground organization!
 
+The secret password is : nakano
 
