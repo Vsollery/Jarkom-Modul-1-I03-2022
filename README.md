@@ -32,6 +32,10 @@ then save the file and open it. it will open
 
 >  Filter so that wireshark only shows packets going to port 80!
 
+Use Filter 'tcp.dstport == 80' to show packets destination to port 80
+![Number3](/screenshots/no 3.png)
+
+
 
 ## Question 4
 
@@ -54,6 +58,10 @@ Using the command `tcp.srcport == 442` to filter out packets coming from port 44
 ## Question 6
 
 > Filter so that wireshark only shows packets going to lipi.go.id !
+
+Using command filter 'tcp contains lipi.go.id' to show packets that Host is lipi.go.id
+![Number6](/screenshots/no 6.png)
+
 
 
 ## Question 7
