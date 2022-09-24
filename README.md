@@ -81,6 +81,7 @@ we will save that file to be decrypted.
 <img width="797" alt="image" src="https://user-images.githubusercontent.com/87944227/192083251-1f1fa40a-099d-4551-97e3-e3c780b56bc9.png">
 In the screenshot above we are decrypting the daved file with the password nakano.
 <img width="506" alt="image" src="https://user-images.githubusercontent.com/87944227/192083281-8f1bcb85-529e-42e6-a7e0-d7a75ea8124e.png">
+
 Results of the encrypted file. 
 
 
